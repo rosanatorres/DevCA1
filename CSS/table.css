@@ -1,0 +1,27 @@
+table  {
+    width: 100%;
+    border-collapse: collapse;
+    box-shadow: 15px 15px 10px rgba(16, 17, 18, 0.3);
+  }
+th, td {
+    border: solid black 1px;
+    padding: 10px;
+    text-align: center;    
+  }
+ * {
+    margin: 20px auto;
+  }
+th{
+    background-color: darkolivegreen;
+    font-size: 16px;
+    font-family: arial;
+    font-weight: bold;
+}
+caption{
+    font-size: 30px
+    color blue;
+    font-family: arial;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+}
